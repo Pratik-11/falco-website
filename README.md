@@ -1,20 +1,20 @@
-# falco-website
+# Falco-website
 
 ## Contributing logos
 
 In order to contribute a logo you must meet one of the following adopter types.
 
- - End-user, with a contribution to [ADOPTERS.md](https://github.com/falcosecurity/falco/blob/master/ADOPTERS.md)
- - Vendor, with a contribution to [ADOPTERS.md](https://github.com/falcosecurity/falco/blob/master/ADOPTERS.md)
+ - End-user, with a contribution to [ADOPTERS.md](https://github.com/falcosecurity/falco/blob/master/ADOPTERS.md).
+ - Vendor, with a contribution to [ADOPTERS.md](https://github.com/falcosecurity/falco/blob/master/ADOPTERS.md).
  - Integration, with a contribution to the [Falco contrib](https://github.com/falcosecurity/contrib) repository. This must be documentation at the very least that describes how to use Falco with your project or tool.
 
 Then open a pull request to this repository that contains:
 
  - A `.png` or `.svg` file in [clients](https://github.com/falcosecurity/falco-website/tree/master/themes/falco-fresh/static/images/logos/clients)
- - A change to [config.yaml](https://github.com/falcosecurity/falco-website/blob/master/config.yaml) that includes your logo alphabetically
+ - A change to [config.yaml](https://github.com/falcosecurity/falco-website/blob/master/config.yaml) that includes your logo alphabetically.
  - Links and references to demonstrate you meet the criteria above.
 
-We try not to duplicate logos, and would prefer more encompassing logos over granular logos. For instance we prefer AWS over AWS EC2.
+We try not to duplicate logos, and would prefer more creative and  encompassing logos over granular logos. For instance we prefer AWS over AWS EC2.
 
 ## Prerequisites
 
@@ -57,7 +57,7 @@ To translate other parts of the site:
 
 There is currently scaffolding in place for a Japanese translation of the site.
 
-To translate docs into Japanese, create Japanese-language Markdown files in the `content/jp/docs` directory.
+To translate your docs into Japanese, create Japanese-language Markdown files in the `content/jp/docs` directory.
 
 To translate other parts of the site:
 
